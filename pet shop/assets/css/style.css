@@ -1,0 +1,89 @@
+.headder{
+    background-color: #e77817;
+    color: white;
+}
+
+.logo-icon{
+    width: 40%;
+}
+
+.logo-center{
+    text-align: center;
+}
+.bg-logo{
+background-color: #e77817;
+}
+nav{
+    background-color: #e77817 !important;
+}
+.rowPadding{
+    padding: 25px;
+}
+.cat-pad{
+    padding: 10px;
+}
+.scroll{
+    height: 430px;
+    overflow: scroll;
+}
+.scroll1{
+height: 450px;
+overflow: scroll;
+}
+.row {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -1px !important;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #e77817;
+    color: white;
+    text-align: center;
+}
+
+.btn{
+    height: 52px;
+    background-color: #e77817 !important;
+    width: 80%;
+    padding: 9px;
+    font-size: 20px;;
+}
+.dropdown-content{
+    color: black !important;
+    width: 40px !important;
+    left: 70% !important;
+    top: 35px !important;
+  }
+  .dropdown-content li > a, .dropdown-content li > span {
+    font-size: 20px !important;
+    color: #000000 !important;
+    display: block;
+    line-height: 22px;
+    padding: 14px 16px;
+  }
+  
+input:not([type]):focus:not([readonly]),
+input[type=text]:not(.browser-default):focus:not([readonly]),
+input[type=password]:not(.browser-default):focus:not([readonly]),
+input[type=email]:not(.browser-default):focus:not([readonly]),
+input[type=url]:not(.browser-default):focus:not([readonly]),
+input[type=time]:not(.browser-default):focus:not([readonly]),
+input[type=date]:not(.browser-default):focus:not([readonly]),
+input[type=datetime]:not(.browser-default):focus:not([readonly]),
+input[type=datetime-local]:not(.browser-default):focus:not([readonly]),
+input[type=tel]:not(.browser-default):focus:not([readonly]),
+input[type=number]:not(.browser-default):focus:not([readonly]),
+input[type=search]:not(.browser-default):focus:not([readonly]),
+textarea.materialize-textarea:focus:not([readonly]) {
+  border-bottom: 1px solid #26a69a;
+  -webkit-box-shadow: none !important;
+          box-shadow:none !important;
+}
+.button5 {border-radius:50%;}
+* {
+  box-sizing: border-box;
+}
